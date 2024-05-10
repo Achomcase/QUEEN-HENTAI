@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
-
+i
 
 global.owner = [
   ['94767939688', 'Dinuwa Official²⁰²³', true],
